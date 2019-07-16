@@ -1,5 +1,10 @@
 # Todo
 
+Simple angular app: a todo list that updates as the user adds and deletes items
+
+![todoscreenshot](https://user-images.githubusercontent.com/19765747/61296517-4413bf80-a7a8-11e9-9153-b256daf053ef.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ## Development server
